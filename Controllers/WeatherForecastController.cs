@@ -20,6 +20,8 @@ namespace DockerSampleCDE3.Controllers
         return "welcome";
         }
         
+        //Edit method added
+        
         private static readonly string[] Summaries = new[]
         {
         //Various temperatures
