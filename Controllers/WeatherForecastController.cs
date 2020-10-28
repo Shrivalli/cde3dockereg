@@ -14,7 +14,7 @@ namespace DockerSampleCDE3.Controllers
         //Editing the Controller
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly","Topup", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Freezing", "Bracing", "Chilly","Topup","new","wild", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
