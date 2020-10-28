@@ -12,9 +12,10 @@ namespace DockerSampleCDE3.Controllers
     public class WeatherForecastController : ControllerBase
     {
         //Editing the Controller
+        //Github webhook eg
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly","Topup","new","wild", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Freezing", "Bracing", "Chilly","Topup","new","wild", "Cool","welcome", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
