@@ -16,6 +16,7 @@ namespace DockerSampleCDE3.Controllers
         //Sample comment
         private static readonly string[] Summaries = new[]
         {
+        //Various temperatures
             "Freezing", "Bracing", "Chilly","Topup","new","wild", "Cool","welcome", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
