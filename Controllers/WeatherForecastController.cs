@@ -14,6 +14,12 @@ namespace DockerSampleCDE3.Controllers
         //Editing the Controller
         //Github webhook eg
         //Sample comment
+        
+        public string newmethod()
+        {
+        return "welcome";
+        }
+        
         private static readonly string[] Summaries = new[]
         {
         //Various temperatures
