@@ -13,6 +13,7 @@ namespace DockerSampleCDE3.Controllers
     {
         //Editing the Controller
         //Github webhook eg
+        //Sample comment
         private static readonly string[] Summaries = new[]
         {
             "Freezing", "Bracing", "Chilly","Topup","new","wild", "Cool","welcome", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
