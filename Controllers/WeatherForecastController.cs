@@ -14,7 +14,7 @@ namespace DockerSampleCDE3.Controllers
         //Editing the Controller
         //Github webhook eg
         //Sample comment
-        
+        //Newmethod is added
         public string newmethod()
         {
         return "welcome";
